@@ -3,6 +3,32 @@
   padding: 0;
 }
 
-body{
+header {
   background-color: white;
+  box-shadow: 2px 2px 4px 2px #858585;
+}
+
+.new, .upload, .share {
+  background-color: rgb(136, 205, 228);
+  border-radius: 8px;
+}
+
+input {
+  background-color: #bcc6cc;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #bcc6cc;
+}
+
+.sidebar {
+  background-color: rgb(136, 205, 228);
+}
+
+.project {
+  background-color: white;
+  border-radius: 8px;
+  border-left: 2px solid #F1C338;
+  box-shadow: 2px 2px 4px 2px #858585;
 }
